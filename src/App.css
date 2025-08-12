@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+#root {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    color: #22223b;
+    padding: 0;
+    margin: 0;
+
+    @apply bg-gray-100;
+}
